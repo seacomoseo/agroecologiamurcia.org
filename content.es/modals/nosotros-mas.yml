@@ -1,0 +1,33 @@
+id: nosotros-mas
+rows:
+- type: columns
+  design:
+    num: 2
+    grow: true
+    align_y: center
+    align: left
+  items:
+  - bg: 2019-05-11-12-55-13.jpg
+    more:
+      align_y: strech
+  - title: Objetivos
+    description: |
+      - Ofrecer una alternativa educativa en un entorno natural
+      - Aprender a hacer las cosas por uno mismo
+      - Llevar tareas de investigación y de estudio
+      - Ser creadores desde el reaprendizaje
+      - Hacer despertar la creatividad que todos llevamos dentro
+  - order: 3
+    bg: 2019-08-06-16-37-49.jpg
+    more:
+      align_y: strech
+  - title: Servicios
+    order: 2
+    description: |
+      Los servicios que El Borrico-Centro de Formación ofrece están destinados a la contribución de la mejora medioambiental en diferentes ámbitos de nuestra vida, en el hogar, en las personas, en la tierra.
+
+      - Proyectos de Bioconstrucción
+      - Asesoría diseño en Permacultura
+      - Formación, y coordinación de cursos y talleres 
+      - Diseño de bosques de alimentos
+      - Revalorizar técnicas tradicionales de construcción

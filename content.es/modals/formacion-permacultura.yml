@@ -1,0 +1,24 @@
+id: formacion-permacultura
+title: Permacultura
+icon: leaf
+description: |
+  Desde Agroecología el Borrico ofrecemos diferentes **Formaciones** para adultos.
+
+  * icon-check Formaciones en diferentes disciplinas para fomentar un consumo responsable teniendo en cuenta las necesidades del cuidado de la tierra y de las personas.
+  * icon-check Proponiendo actividades teóricas y prácticas, proyectando un cambio de paradigma para crear una sociedad resiliente, solidaria y respetuosa con el medio ambiente.
+  * icon-check Un espacio para desarrollar tu creatividad, sentir la naturaleza y conocer otras personas.
+
+  #### Cursos y Talleres
+  {.align-center}
+more:
+  icon_type: top
+rows:
+- type: articles
+  kind: blog
+  categories:
+  - formacion-agroecologia
+  max: 12
+  design:
+    num: 2
+    color: light
+    slider: true

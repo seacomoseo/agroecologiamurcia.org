@@ -1,0 +1,23 @@
+id: header
+title: EL BORRICO
+subtitle: Centro de Formación en Permacultura y Bioconstrucción
+color: white
+image: icon.svg
+bg: fondo.jpg
+gradient: main-light
+description: |
+  Recuperando saberes y tradiciones...<br>Recuperando conocimiento.
+
+  [btn icon-plus Más](#principal)
+more:
+  align: center
+  padding_top: 5
+  padding_bottom: 1
+  image_min: 10
+  image_max: 10
+  opacity: 20
+  parallax: true
+  gradient_type: linear-b
+  flip_x: false
+  flip_y: false
+  divider: fall

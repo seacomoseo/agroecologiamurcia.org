@@ -1,0 +1,34 @@
+id: nosotros
+title: Nosotros
+subtitle: Proyecto "El Borrico"
+color: light
+icon: circle-info
+more:
+  flip_x: false
+  flip_y: false
+  divider: mountain
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - bg: 2019-04-17-18-29-14.jpg
+    more:
+      radius: true
+      align_y: strech
+  - description: |
+      **Educación para aprender a respetar nuestro entorno, las personas y los animales.**
+
+
+      **El Borrico-Centro de Formación** es un proyecto que se centra en los principios de la [PERMACULTURA](https://permacultureprinciples.com/es/index.php) y que nace de la necesidad de dar a las personas el conocimiento necesario para que puedan desarrollar ya sea a nivel personal, la familia, la comunidad, el municipio, etc... herramientas que les permitan desarrollar técnicas para cambiar hacia maneras de vivir que no nos dañen ni a nosotros ni al **planeta** con el fin de generar una buena gestión para un **desarrollo sostenible.**
+
+
+      Para ello utilizaremos el espacio con todos los recursos que nos proporciona en donde creamos una batería de cursos dirigidos a recuperar conocimiento, transmitirlo y compartir el proceso para multiplicar sus efectos.
+
+
+      Los pilares principales del proyecto son la **Agroecología** y la **Bioconstrucción** con el fin de recuperar saberes tradiciones y conocimiento.
+
+      [btn icon-plus Más](#nosotros-mas)
+    more:
+      align: left

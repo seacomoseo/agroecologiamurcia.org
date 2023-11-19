@@ -1,0 +1,27 @@
+id: fotos
+title: Fotos
+subtitle: ¿Cómo es nuestro entorno?
+color: link-dark
+icon: camera
+more:
+  flip_x: false
+  flip_y: true
+  divider: brush
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 3
+    alt: false
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    link: /fotos/
+  images:
+  - 2019-05-18-0134.jpg
+  - 2021-07-12-0005.jpg
+  - 2018-11-27-13-35-00.jpg
+  - fimi-0145.jpg
+  - 2020-07-14-14-05-31.jpg
+  - 2020-10-10-12-38-57.jpg

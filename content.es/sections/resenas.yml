@@ -1,0 +1,34 @@
+id: resenas
+title: Reseñas
+subtitle: ¿Qué dicen de nosotros?
+color: light
+button: hide
+icon: comment
+more:
+  align: center
+  flip_x: false
+  flip_y: true
+  divider: tear-alt
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: J. Miguel Ruiz
+    image: resena-j-miguel-ruiz.jpg
+    description: Sitio precioso para ir con niños. Los burritos y el entorno son un libro abierto de cómo integrar la actividad humana con el entorno sin cargarnos éste...
+  - title: Jesus Soto
+    image: resena-jesus-soto.png
+    description: Es un sitio bueno para la familia, donde te enseñan cosas de agro ecológica, con unas personas super agradables y muy dinámicas.
+  - title: Santiago Pérez
+    image: resena-santiago-perez.jpg
+    description: 'Escelente lugar de talleres y cursos: sobre plantas, animales, bioconstruccion, etc.'
+- type: columns
+  items:
+  - description: |
+      ¡Hay más aquí! ¡Añade la tuya!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/agroecologiamurcia-org/review "noindex")

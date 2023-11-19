@@ -1,0 +1,18 @@
+id: noticias
+title: Noticias
+subtitle: Novedades
+color: main-light
+icon: rss
+more:
+  flip_x: false
+  flip_y: true
+  divider: brush
+rows:
+- type: articles
+  kind: blog
+  categories:
+  - general
+  max: 4
+  design:
+    num: 4
+    slider: true

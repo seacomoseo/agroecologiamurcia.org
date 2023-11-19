@@ -1,0 +1,20 @@
+id: equipo
+title: Equipo
+subtitle: ¿Quiénes somos?
+color: white
+icon: users
+more:
+  flip_x: true
+  flip_y: false
+  divider: mountain
+rows:
+- type: columns
+  design:
+    num: 4
+    ratio: circle
+    border: main
+  items:
+  - title: José Fernando Sánchez Rosauro
+    subtitle: Creador de El Borrico
+    link: '#equipo-jose-fernando-sanchez-rosauro'
+    image: jose-fernando-sanchez-rosauro.jpg

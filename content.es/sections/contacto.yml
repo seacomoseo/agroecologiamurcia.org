@@ -1,0 +1,49 @@
+id: contacto
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+color: white
+button: link
+size: sm
+icon: paper-plane
+more:
+  flip_x: false
+  flip_y: true
+  divider: tear-alt
+rows:
+- type: contact
+  data:
+  - type: phone
+    label: 679 53 64 15
+  - type: whatsapp
+    button: link
+    label: 679 53 64 15
+  - type: mail
+    label: info@agroecologiamurcia.org
+    full: true
+  - type: address
+    active: true
+    name: El Borrico
+    streetAddress: Camino de la Maquina, s/n
+    postalCode: 30561
+    addressLocality: Alguazas
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.249201,38.064655]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: tel
+      name: Teléfono
+      required: false
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: true
+    link: https://g.page/agroecologiamurcia-org

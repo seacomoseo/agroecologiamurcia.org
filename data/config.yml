@@ -1,0 +1,39 @@
+title: El Borrico · Centro de Formación
+description: Recuperando saberes y tradiciones... Recuperando conocimiento.
+logo: logo.svg
+legal_name: José Fernando Sánchez Rosauro
+legal_dni: 52815938A
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- LocalBusiness
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-CT3EEBTLWW
+google_site_verification: Bettbn0Hzf1kQK4G6aG7dGnqWuYLh4yzwZDFdr0NP7M
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://g.page/agroecologiamurcia-org
+- link: https://www.facebook.com/agroecologiamurcia.org/
+
