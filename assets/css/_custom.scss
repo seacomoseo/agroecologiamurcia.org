@@ -2,16 +2,16 @@
 
 #body-inicio #header {
   .section__title {
-    animation: show-up .5s 1.75s both;
+    animation: show-from .5s 1.75s both;
   }
   .subtitle {
-    animation: show-up .5s 2s both;
+    animation: show-from .5s 2s both;
   }
   .description > p {
-    animation: show-up .5s 2.25s both;
+    animation: show-from .5s 2.25s both;
   }
   .description > .buttons {
-    animation: show-up .5s 2.5s both;
+    animation: show-from .5s 2.5s both;
   }
 }
 
