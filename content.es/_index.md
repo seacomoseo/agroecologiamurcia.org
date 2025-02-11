@@ -13,18 +13,18 @@ sections:
 - file: nosotros
   modals:
   - nosotros-mas
+- file: servicios
 - file: formacion
   modals:
   - formacion-permacultura
   - formacion-bioconstruccion
   - voluntariado
-- file: servicios
+- file: socios
+- file: noticias
+- file: fotos
 - file: equipo
   modals:
   - equipo-jose-fernando-sanchez-rosauro
-- file: noticias
-- file: socios
-- file: fotos
 - file: resenas
 - file: contacto
 ---
