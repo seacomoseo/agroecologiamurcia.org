@@ -1,8 +1,8 @@
-id: equipo
-title: Equipo
-subtitle: ¿Quiénes somos?
+id: ''
+title: ''
+subtitle: ''
+icon: ''
 color: white
-icon: users
 more:
   flip_x: true
   flip_y: false
