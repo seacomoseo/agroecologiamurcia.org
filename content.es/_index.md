@@ -27,4 +27,6 @@ sections:
   - equipo-jose-fernando-sanchez-rosauro
 - file: resenas
 - file: contacto
+- modals:
+  - voluntariado
 ---
