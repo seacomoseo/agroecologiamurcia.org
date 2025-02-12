@@ -1,8 +1,8 @@
 id: socios
 title: Socios
 subtitle: ¿Quiénes nos colaboran?
-color: light
 icon: handshake
+color: light
 more:
   flip_x: true
   flip_y: false
@@ -21,4 +21,5 @@ rows:
   - image: logo-amadome.png
   - link: https://detierraypaja.com/
     image: logo-de-tierra-y-paja.png
-  - image: logo-rcp.png
+  - image: /red-de-construccion-con-paja.png
+    link: https://www.casasdepaja.org/
