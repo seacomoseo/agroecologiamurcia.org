@@ -3,14 +3,14 @@ Paginate: 24
 buildFuture: true
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/agroecologiamurcia/agroecologiamurcia.org
+  git_url: https://github.com/seacomoseo/agroecologiamurcia.org
   netlify_name: agroecologiamurcia
   netlify_id: 02dc4438-2be3-41a1-b139-7a15d8ae526a
   hook: NjMwM2ExZGViZmM5NTUxNGNjODZmYzNh
   drive_link: https://drive.google.com/file/d/1z_wbS35CTY-lGFo7Om0kNQa1JWu6gFiI
   drive_mails: josefsr2012@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en,fr]
 languages:
   es:
     paginatePath: pagina

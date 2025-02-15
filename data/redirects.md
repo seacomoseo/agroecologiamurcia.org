@@ -199,3 +199,7 @@ http://www.agroecologiamurcia.org/* https://agroecologiamurcia.org/:splat 301!
 /http:/www.agroecologiamurcia.org/taller-revestimientos-con-tierra/feed/ /
 /http:/www.agroecologiamurcia.org/taller-de-tadelakt/ /taller-de-tadelakt/
 /agroecologia/ /permacultura/
+
+# 2025-02-15
+/permacultura-en /
+/curso-de- /
