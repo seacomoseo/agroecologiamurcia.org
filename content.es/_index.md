@@ -19,14 +19,17 @@ sections:
   - formacion-permacultura
   - formacion-bioconstruccion
   - voluntariado
+- modals:
+  - voluntariado
+  file: voluntariado
 - file: socios
 - file: noticias
 - file: fotos
+  modals:
+  - null
 - file: equipo
   modals:
   - equipo-jose-fernando-sanchez-rosauro
 - file: resenas
 - file: contacto
-- modals:
-  - voluntariado
 ---
