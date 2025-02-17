@@ -18,7 +18,6 @@ sections:
   modals:
   - formacion-permacultura
   - formacion-bioconstruccion
-  - voluntariado
 - modals:
   - voluntariado
   file: voluntariado
