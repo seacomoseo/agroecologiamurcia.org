@@ -18,7 +18,7 @@ rows:
     contain: true
     grayscale: true
   items:
-  - image: logo-amadome.png
+  - image: photo_2025-02-13_11-58-48.jpg
   - link: https://detierraypaja.com/
     image: logo-de-tierra-y-paja.png
   - image: /red-de-construccion-con-paja.png
