@@ -13,7 +13,7 @@ toc: false
 draft: false
 noindex: false
 date: 2019-05-26
-lastmod: 2019-05-26
+lastmod: 2026-03-14
 ---
 _Adquirir un profundo conocimiento del comportamiento de la tierra como material de construcción, sus características, propiedades y sus usos en la construcción._
 
