@@ -1,11 +1,12 @@
 ---
+weight: 1
 slug: permacultura
 title: Permacultura
 img: /u/2019-05-12-12-37-01.jpg
+icon: 😚
 seo:
   title: Servicios de Permacultura en Murcia
   desc: El origen de la permacultura se remonta al año 1970, cuando dos ecologistas australianos, Bill Mollison y David Holmgren.
-weight: 1
 ---
 
 ## Servicios que ofrecemos en Permacultura
