@@ -1,0 +1,28 @@
+- { from: https://www.agroecologiamurcia.org/* , to: https://agroecologiamurcia.org/:splat }
+- { from: http://www.agroecologiamurcia.org/* , to: https://agroecologiamurcia.org/:splat }
+
+# 2026-09-22
+- { from: /bioconstruccion/ , to: /escuela/bioconstruccion/ }
+- { from: /permacultura-en-murcia/ , to: /escuela/permacultura/ }
+- { from: /casas-de-paja/ , to: /servicio/casas-de-paja/ }
+- { from: /construccion-domos-geodesicos/ , to: /servicio/construccion-domos-geodesicos/ }
+- { from: /construccion-con-cana/ , to: /formacion/2019/05/26/construccion-con-cana/ }
+- { from: /construccion-con-tierra/ , to: /formacion/2026/03/14/construccion-con-tierra/ }
+- { from: /curso-de-facilitacion-2/ , to: /formacion/2018/01/14/curso-de-facilitacion/ }
+- { from: /curso-de-poda-2/ , to: /formacion/2020/12/12/curso-de-poda/ }
+- { from: /curso-en-agricultura-regenerativa/ , to: /formacion/2018/12/24/curso-en-agricultura-regenerativa/ }
+- { from: /curso-reproduccion-artesanal-microorganismos/ , to: /formacion/2019/06/14/curso-reproduccion-artesanal-microorganismos/ }
+- { from: /cursos-de-bioconstruccion/ , to: / }
+- { from: /cursos-de-permacultura-en-murcia/ , to: /formacion/2019/01/25/cursos-de-permacultura/ }
+- { from: /microorganismos-para-la-salud/ , to: /formacion/2020/03/15/microorganismos-para-la-salud/ }
+- { from: /nutricion-simbiotica/ , to: /formacion/2017/04/01/nutricion-simbiotica/ }
+- { from: /taller-de-mural-esgrafiado/ , to: /formacion/2020/06/25/taller-de-mural-esgrafiado/ }
+- { from: /taller-de-revestimientos-con-tierra/ , to: /formacion/2020/10/10/taller-de-revestimientos-con-tierra/ }
+- { from: /taller-de-tadelakt/ , to: /formacion/2020/04/23/taller-de-tadelakt/ }
+- { from: /talleres-de-agricultura-organica/ , to: /formacion/2020/02/01/talleres-de-agricultura-organica/ }
+- { from: /curso-de-injertos/ , to: /formacion/2021/04/10/curso-de-injertos/ }
+- { from: /curso-de-poda/ , to: /formacion/2020/12/12/curso-de-poda/ }
+- { from: /post/taller-de-mural-esgrafiado/ , to: /formacion/2020/06/25/taller-de-mural-esgrafiado/ }
+- { from: /media/taller-tadelakt.pdf , to: /u/taller-tadelakt.pdf }
+- { from: /jornadas-de-puertas-abiertas/ , to: / }
+- { from: /61/ , to: / }

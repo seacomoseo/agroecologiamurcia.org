@@ -1,0 +1,40 @@
+@use 'css/variables';
+
+// Header
+
+#body-home #hero {
+  .box__title {
+    animation: show-from .5s 1.75s both;
+  }
+  .sub {
+    animation: show-from .5s 2s both;
+  }
+  .md > p {
+    animation: show-from .5s 2.25s both;
+  }
+  .md > .btns {
+    animation: show-from .5s 2.5s both;
+  }
+}
+
+// Sections
+
+.section {
+  filter: none;
+}
+
+#formacion h3 {
+  font-size: 1.4em;
+}
+
+#servicios {
+  .boxes {
+    --column-header-size: 0.714;
+  }
+}
+
+// Blog
+
+.logo__title {
+  color: variables.$dark;
+}

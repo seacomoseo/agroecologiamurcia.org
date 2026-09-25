@@ -1,0 +1,51 @@
+name: Nosotros
+id: nosotros
+color: white
+boxes:
+- title: Nosotros
+  sub: Asociación "El Borrico"
+  icon: info
+  box:
+    duo: 1
+    align: left
+    align_vl: left
+  boxes:
+  - bi: /u/2019-04-17-18-29-14.jpg
+  - md: |
+      **Educación para aprender a respetar nuestro entorno, las personas y los animales.**
+
+      **El Borrico** es una asociación que se centra en los principios de la [PERMACULTURA](https://permacultureprinciples.com/es/index.php) y que nace de la necesidad de dar a las personas el conocimiento necesario para que puedan desarrollar ya sea a nivel personal, la familia, la comunidad, el municipio, etc... herramientas que les permitan desarrollar técnicas para cambiar hacia maneras de vivir que no nos dañen ni a nosotros ni al **planeta** con el fin de generar una buena gestión para un **desarrollo sostenible.**
+
+      Para ello utilizaremos el espacio con todos los recursos que nos proporciona en donde creamos una batería de encuentros dirigidos a recuperar conocimiento, transmitirlo y compartir el proceso para multiplicar sus efectos.
+
+      Los pilares principales del proyecto son la **Agroecología** y la **Bioconstrucción** con el fin de recuperar saberes tradiciones y conocimiento.
+
+      [[::add:: Más]](#nosotros-mas)
+modal:
+  color: white
+modals:
+- id: nosotros-mas
+  box:
+    duo: 1
+    gap_vs: 2
+    align: left
+    align_vl: left
+  boxes:
+  - bi: /u/2019-05-11-12-55-13.jpg
+  - title: Objetivos
+    md: |
+      - Ofrecer una alternativa educativa en un entorno natural
+      - Aprender a hacer las cosas por uno mismo
+      - Llevar tareas de investigación y de estudio
+      - Ser creadores desde el reaprendizaje
+      - Hacer despertar la creatividad que todos llevamos dentro
+  - bi: /u/2019-05-18-0155.jpg
+  - title: Servicios
+    md: |
+      Los servicios que El Borrico-Centro de Formación ofrece están destinados a la contribución de la mejora medioambiental en diferentes ámbitos de nuestra vida, en el hogar, en las personas, en la tierra.
+
+      - Proyectos de Bioconstrucción
+      - Asesoría diseño en Permacultura
+      - Formación, y coordinación de cursos y talleres 
+      - Diseño de bosques de alimentos
+      - Revalorizar técnicas tradicionales de construcción

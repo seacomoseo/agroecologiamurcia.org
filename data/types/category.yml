@@ -1,0 +1,23 @@
+title: Escuelas
+base: page
+weight: 3
+icon: school 
+emoji: 🎓
+body: true
+tax_of:
+- name: event
+  crumbs: true
+  schema: articleSection
+tpl:
+  list:
+    cols: 3
+    gap_vs: 2
+    color: white
+    pill: true
+    align: center
+    shade: false
+    hs: 4
+    sub: Escuela
+    md: hide
+    pin: add
+    btn: cta

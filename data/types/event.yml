@@ -1,0 +1,17 @@
+title: Formaciones
+base: event
+weight: 2
+icon: menu_book
+emoji: 📖
+body: true
+rel: true
+tpl:
+  list:
+    color: black
+    fade: main
+    fade_to: t
+    card: true
+    shade: false
+    md: hide
+    tags:
+    - type: date

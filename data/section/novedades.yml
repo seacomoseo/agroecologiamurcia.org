@@ -1,0 +1,15 @@
+name: Novedades
+id: novedades
+color: main-light
+boxes:
+- title: Novedades
+  sub: Últimos cursos y talleres
+  icon: rss_feed
+  list:
+    type: event
+    max: 4
+  box:
+    cols: 4
+    slider: true
+  url: /formaciones/
+  pin: add

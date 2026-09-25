@@ -1,0 +1,46 @@
+name: Contacto
+id: contacto
+color: white
+menu_btn: cta
+boxes:
+- title: Contacto
+  sub: ¿En qué podemos ayudarte?
+  icon: send
+  box:
+    cols: 2
+  boxes:
+  - links:
+    - type: whatsapp
+      label: 679 53 64 15
+      icon: brand:whatsapp-o
+    - type: phone
+      label: 679 53 64 15
+    - type: custom
+      label: Facebook
+      url: https://www.facebook.com/agroecologiamurcia.org/
+      icon: brand:facebook
+      lock: true
+      btn: alt
+    - type: mail
+      label: info@agroecologiamurcia.org
+      btn: turn
+    - type: address
+      label: Camino de la Maquina, s/n, 30561 Alguazas, Murcia
+      anchor: https://g.page/agroecologiamurcia-org
+      btn: such
+    inputs:
+    - type: text
+      name: Nombre
+      req: true
+    - type: mail
+      name: Email
+      req: true
+    - type: phone
+      name: Teléfono
+      req: false
+    - type: area
+      name: Mensaje
+      req: true
+  - geos:
+    - type: point
+      geo: '{"type":"Point","coordinates":[-1.249201,38.064655]}'

@@ -1,0 +1,17 @@
+title: Servicios
+base: service
+weight: 1
+body: true
+tpl:
+  list:
+    color: white
+    align: center
+    pill: true
+    inset: false
+    ratio: 3/2
+    line: true
+    hs: 4.5
+    hs_vs: 2.5
+    btn: cta
+    slider: true
+    pin: add

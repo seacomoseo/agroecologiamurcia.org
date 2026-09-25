@@ -1,0 +1,20 @@
+name: Fotos
+id: fotos
+color: white
+menu_btn: hide
+boxes:
+- title: Fotos
+  sub: ¿Cómo es nuestro entorno?
+  icon: photo_camera
+  gallery:
+    cols: 3
+    ratio: 3/2
+  imgs:
+  - /u/2019-05-18-0134.jpg
+  - /u/2021-07-12-0005.jpg
+  - /u/2018-11-27-13-35-00.jpg
+  - /u/fimi-0145.jpg
+  - /u/2020-07-14-14-05-31.jpg
+  - /u/2020-10-10-12-38-57.jpg
+  url: /fotos/
+  pin: add

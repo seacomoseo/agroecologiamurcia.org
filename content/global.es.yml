@@ -1,0 +1,17 @@
+menu:
+  img: /u/base/logo-h.svg
+footer:
+  div: brush
+  color: main-dark
+  # space: 2
+  # dots:
+  # - url: https://g.page/agroecologiamurcia-org
+  # - url: https://www.facebook.com/agroecologiamurcia.org/
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}
+

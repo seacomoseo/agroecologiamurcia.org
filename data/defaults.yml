@@ -1,0 +1,12 @@
+- name: toc
+  value: 'false'
+  type: bool
+  path:
+  - /service/*
+  - /category/*
+- name: index
+  value: 'false'
+  type: bool
+  path:
+  - /service/*
+  - /category/*

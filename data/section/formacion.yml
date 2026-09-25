@@ -1,0 +1,26 @@
+name: Formacion
+id: formacion
+color: main-light
+box:
+  gap_vs: 2
+boxes:
+- title: Formación
+  sub: Cursos y Talleres
+  icon: school
+  list:
+    type: category
+  box:
+    cols: 4
+    cols_vs: 1.2
+- sub: Últimos cursos y talleres
+  space: .1
+  list:
+    type: event
+    max: 4
+  box:
+    cols: 4
+    cols_vs: 1.2
+    gap_vs: 1
+    slider: true
+- url: /formaciones/
+  pin: add

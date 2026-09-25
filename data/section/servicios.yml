@@ -1,0 +1,14 @@
+name: Servicios
+id: servicios
+color: light
+boxes:
+- title: Servicios
+  sub: ¿En qué podemos ayudarte?
+  icon: build
+  list:
+    type: service
+  box:
+    cols: 4
+    cols_vs: 1.2
+    hs_vs: 3
+    slider: true

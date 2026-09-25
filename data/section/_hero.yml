@@ -1,0 +1,19 @@
+name: Hero
+id: hero
+color: main-light
+fade: white
+fade_to: t
+bi: /u/fondo.jpg
+alpha: 0.8
+scroll: fix
+boxes:
+- img: /u/base/icon.svg
+  fit: .175
+  fit_vs: .5
+  hide_shadow: true
+- title: EL BORRICO
+  sub: Centro de Formación en Permacultura y Bioconstrucción
+  md: |
+    Recuperando Biodiversidad para un Mundo mas Sostenible 
+
+    [[::add:: Más]](#more)

@@ -1,0 +1,17 @@
+name: Equipo
+color: white
+boxes:
+- box:
+    cols: 4
+    border: main
+    disc: true
+modal:
+  color: white
+  icon_pos: sub
+  border: main
+  disc: true
+modals:
+- id: equipo-jose-fernando-sanchez-rosauro
+  icon: man
+  title: José Fernando Sánchez Rosauro
+  sub: Fundador de El Borrico
